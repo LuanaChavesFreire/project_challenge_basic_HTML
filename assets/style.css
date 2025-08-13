@@ -32,6 +32,10 @@ ul {
     width: 500px;
 }
 
+.personagem { /* espaço entre imagem e texto */
+    margin-bottom: 0px;
+}
+
 .navigation {
     display: flex;
     gap: 40px; /* espaço entre Content e Characters */
